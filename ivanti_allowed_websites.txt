@@ -123,6 +123,7 @@
 .r-project.org
 .salesforce.com
 .scootersoftware.com
+.shavlik.com
 .skype.com
 .slack-edge.com
 .sourceforge.net
